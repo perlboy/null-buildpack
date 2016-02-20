@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # bin/compile <build-dir> <cache-dir>
+rm -rfv $2/*
 
-echo "-----> Nothing to do."
